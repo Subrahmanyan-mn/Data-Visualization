@@ -1,2 +1,2 @@
 
-Scraping Manipal school of Information science page to extact the faculty information using BS$
+Scraping Manipal school of Information science page to extact the faculty information using BS4
